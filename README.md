@@ -5,7 +5,7 @@ PulseNet is a simple command-line tool for testing internet speed. It measures p
 ## Usage
 
 ```bash
-Usage: pulsenet [options]
+pulsenet [options]
 ```
 
 ### Options
